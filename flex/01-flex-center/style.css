@@ -3,10 +3,6 @@
   border: 4px solid midnightblue;
   width: 400px;
   height: 300px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: auto;
 }
 
 .box {
@@ -16,5 +12,4 @@
   border: 6px solid maroon;
   width: 80px;
   height: 80px;
-  
 }
